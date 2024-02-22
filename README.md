@@ -1,6 +1,6 @@
 # Github pages exercise
 
-![Image of a hero with a name, a small descrition and a simple button](./assets/design.png)
+![Image of a hero with a name, a small descrition and a simple button](./assets/template.png)
 
 ## What you'll do
 
